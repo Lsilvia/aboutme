@@ -7,29 +7,24 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="https://baike.baidu.com/item/%E6%88%90%E9%83%BD/128473?fr=aladdin" style="margin-left:0.5em">Cheng Du</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="shilan.liao@gmail.com" style="margin-left:0.5em">shilan.liao@gmail.com</a>
 </div>
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
-```
-Pittsburgh, PA
-```
-- Ph.D. in Software Engineering
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Sichuan University__ `2014.9 - 2017.6`
 ```
-New York, NY
+Cheng Du Sichuan
 ```
 - B.S. in Computer Science, _Magna Cum Laude_
 - Vision, Graphics track
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __Dickinson College__ `2010.9 - 2014.6`
 ```
-Carlisle, PA
+Tai Yuan Taiyuan
 ```
 - B.S. in Computer Science, _Summa Cum Laude_
 - Computer Science Departmental Honors
